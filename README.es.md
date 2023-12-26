@@ -8,10 +8,8 @@ Esta es la imagen a imitar [Imagen del formulario](https://raw.githubusercontent
 
 ### Contributors
 
-This template was built as part of the [Full Stack Developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) at [4Geeks Academy Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and [many other contributors](https://github.com/4GeeksAcademy/html-hello/graphs/contributors).
+Este template proviene de [Full Stack Developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) en [4Geeks Academy Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) por [Alejandro Sanchez](https://twitter.com/alesanchezr) y [many other contributors](https://github.com/4GeeksAcademy/html-hello/graphs/contributors).
 
-You can find other templates and resources like this at the [school's GitHub page](https://github.com/4geeksacademy/).
-
-### Special Thanks
+### Gracias
 
 4geeks Academy
