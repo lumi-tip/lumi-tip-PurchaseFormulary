@@ -1,10 +1,10 @@
 # Formulario de Compra
 
-Este es un simple formulario de compra hecho con bootstrap. El objetivo de este trabajo era imitar lo maximo posible la imagen de un formulario de compra.
+Este es un simple formulario de compra hecho con bootstrap.
 
 ## Objetivo?
 
-Esta es la imagen a imitar [Imagen del formulario](https://raw.githubusercontent.com/breatheco-de/exercise-html5-form/master/preview.png)
+El objetivo de este trabajo era imitar lo maximo posible la imagen de un formulario de compra. [Imagen del formulario](https://raw.githubusercontent.com/breatheco-de/exercise-html5-form/master/preview.png)
 
 ### Contributors
 
