@@ -1,6 +1,6 @@
 # Formulario de Compra
 
-Este es un simple formulario de compra hecho con bootstrap. El objetivo de este trabajo era imitar lo maximo posible la imagen que nos daban de un ofrmulario de compra.
+Este es un simple formulario de compra hecho con bootstrap. El objetivo de este trabajo era imitar lo maximo posible la imagen de un formulario de compra.
 
 ## Objetivo?
 
