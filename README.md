@@ -1,10 +1,10 @@
 # Purchase Formulary
 
-This is a simple Purchase Formulary made with bootstrap, better designs will come in the future.
+This is a simple Purchase Formulary made with bootstrap.
 
 ## What's the aim?
 
-Practice, practice, practice :D
+The objective of this project was clone a picture of a purchase formulary. [this is the picture](https://raw.githubusercontent.com/breatheco-de/exercise-html5-form/master/preview.png)
 
 ### Contributors
 
